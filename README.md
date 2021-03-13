@@ -1,1 +1,1 @@
-# Pygthon_proj1
+# Python_proj1
